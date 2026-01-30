@@ -205,6 +205,12 @@ nav {
 }
 
 .language:hover .language__name {
-    transform: scale(1);
+    transform: scale(0.5);
     opacity: 1;
+}
+
+/* PROJECTS AT 40:30 MINS - CONTINUE, NEED TO ADD OWN IMG OF PROJECTS IN HTML SECTION*/
+
+.project__img {
+    width: 100%;
 }
